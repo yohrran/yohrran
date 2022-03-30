@@ -1,4 +1,4 @@
-## 안녕하세요 사용자 편의성 입장에서 생각하는 개발자입니다
+## Hi! I'm Yohan Shin, a junior JavaScript developer.
 
 - 🖥 I'm a FrontEnd Web Developer
 - 🏢 I’m looking for the company
