@@ -1,7 +1,7 @@
 ## Hi! I'm Yohan Shin, a junior JavaScript developer.
 
 - 🖥 I'm a FrontEnd Web Developer
-- 🏢 I’m working 42dot
+- 🏢 I’m working 42dot (2022.07 ~ )
 <br />
 
 ### Tech Stack
