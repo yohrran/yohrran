@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 
 
 ### Developer Loadmap
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64f2d024b128dce3cb9e4091?variant=light&roadmaps=frontend" alt="roadmap.sh"/></a>
+<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/64f2d024b128dce3cb9e4091?variant=light" alt="roadmap.sh"/></a>
